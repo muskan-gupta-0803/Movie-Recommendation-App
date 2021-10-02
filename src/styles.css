@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+ul {
+  list-style-type: none;
+  color: orangered;
+}
+
+h1,
+hr {
+  color: goldenrod;
+}
+
+.rating {
+  color: orange;
+}
+
+button {
+  margin-right: 2rem;
+  font-size: 1rem;
+  border: 2px outset orange;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  background-color: antiquewhite;
+}
